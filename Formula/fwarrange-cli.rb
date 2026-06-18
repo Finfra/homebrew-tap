@@ -1,9 +1,9 @@
 class FwarrangeCli < Formula
   desc "Window layout management daemon for fWarrange"
   homepage "https://github.com/Finfra/fWarrange_public"
-  url "https://github.com/Finfra/fWarrange_public/releases/download/cli-v1.0.1/fWarrangeCli-1.0.1.tar.gz"
-  version "1.0.1"
-  sha256 "488fc4f7944378621244cbdccf74975123defdaedf54161dd4c131189a4fd044"
+  url "https://github.com/Finfra/fWarrange_public/releases/download/cli-v1.0.2/fWarrangeCli-1.0.2.tar.gz"
+  version "1.0.2"
+  sha256 "8c3e22e381a5563f2533689c25e0bfe4c6e097f388cdb18f4bc92aa3c37fd7a4"
   license "MIT"
 
   depends_on :macos
