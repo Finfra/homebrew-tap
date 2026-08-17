@@ -1,9 +1,9 @@
 class FsnippetCli < Formula
   desc "Text snippet expansion engine daemon for fSnippet"
   homepage "https://github.com/Finfra/fSnippet_public"
-  url "https://github.com/Finfra/fSnippet_public/releases/download/cli-v1.1.0/fSnippetCli-1.1.0.tar.gz"
-  version "1.1.0"
-  sha256 "bca7eab18799e34924cee570aa9dc9ad4940a63a9653ac1e44d6c076b2aadd05"
+  url "https://github.com/Finfra/fSnippet_public/releases/download/cli-v1.1.1/fSnippetCli-1.1.1.tar.gz"
+  version "1.1.1"
+  sha256 "b8f0388e4adff2790aa5f30801b47a837b3b52161d49ef9d46161f3286d8c1c2"
   license "MIT"
 
   depends_on :macos
