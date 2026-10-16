@@ -1,9 +1,9 @@
 class FwarrangeCli < Formula
   desc "Window layout management daemon for fWarrange"
   homepage "https://github.com/Finfra/fWarrange_public"
-  # version is scanned from the URL basename (fWarrangeCli-1.1.3.tar.gz)
-  url "https://github.com/Finfra/fWarrange_public/releases/download/cli-v1.1.3/fWarrangeCli-1.1.3.tar.gz"
-  sha256 "e8f1d5d62981cac52e786cfec2caeca6d7b4062167ab5dfce198dd65d38700e7"
+  # version is scanned from the URL basename (fWarrangeCli-1.2.0.tar.gz)
+  url "https://github.com/Finfra/fWarrange_public/releases/download/cli-v1.2.0/fWarrangeCli-1.2.0.tar.gz"
+  sha256 "ad3a13ac0c9c6592cb55d85e16958d7647b9fa675b0f55f0cef22f21f8ede859"
   # Source: Apache-2.0. Official builds are also subject to DISTRIBUTION-TERMS.md (see caveats)
   license "Apache-2.0"
 
